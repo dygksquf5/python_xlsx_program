@@ -1,0 +1,3 @@
+([('changingToXlxs',
+   '/Users/yosuniiiii/python_xlsx_program/dist/changingToXlxs',
+   'EXECUTABLE')],)
